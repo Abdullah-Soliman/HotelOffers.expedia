@@ -1,0 +1,55 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+body
+{
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    color: #444444;
+    font-size: 12pt;
+    background-color: #FAFAFA;
+}
+
+#wrapper {
+    width: 100%;
+    background-color: #FFF;
+    margin-left:auto;
+    margin-right:auto;
+
+}
+
+
+nav {
+    width:960px;
+}
+
+#content {
+    float: left;
+    width:75%;
+
+}
+
+#offerWrapper{
+    margin-bottom: 20px;
+
+}
+
+#rightcol {
+    margin-left: 10px;    
+    float: left;
+    width: 15%;
+}
+
+
+
+.saveText {
+    color: red;
+    font-weight: bold;
+}
+
+.roundedCorners{
+
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 20px; 
+}
